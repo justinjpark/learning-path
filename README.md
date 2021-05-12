@@ -1,6 +1,9 @@
 # learning-path
 My DevOps & Site Reliability Engineering Learning Path
 
+## Prerequisite
+* [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+
 ## Introduction
 #### What is a DevOps Engineer?
 * [How a DevOps engineer facilitates DevOps](https://www.atlassian.com/devops/what-is-devops/devops-engineer)
