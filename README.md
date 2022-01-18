@@ -66,3 +66,6 @@ A class that covers the shell, text editing, data wrangling, version control, re
 - MIT OpenCourseWare, MIT 6.858 Computer Systems Security, Fall 2014
   - [Course Website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
   - [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+
+## Engineering Blogs
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
