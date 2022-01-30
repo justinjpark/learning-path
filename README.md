@@ -1,13 +1,11 @@
 # learning-path
 My DevOps & Site Reliability Engineering Learning Path
 
-|       |       |
-|:-----:|:-----:|
 | ![What's a Devops Engineer?](images/whats-a-devops-engineer.png) | ![Devops Eningeering Basic Skills](images/devops-engineering-basic-skills.png) |
-|       |       |
+|:----------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 
 ## Prerequisite
-* [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+- [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
 
 ## Introduction
 ### DevOps Engineer
